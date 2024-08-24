@@ -115,7 +115,7 @@ By running the sript **img2img_color.py** or **img2img.py** with different value
 
 ## Requirements
 
-* **python 3.6**
-* **cv2**
-* **PIL** 
+* **python 3.x**
+* **cv2 (opencv)**
+* **PIL (pillow)** 
 * **numpy**
