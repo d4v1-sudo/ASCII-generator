@@ -1,4 +1,4 @@
-Errors correction, I made it faster and more!
+- Errors correction, I made it faster and more! -
 
 # [PYTHON] ASCII generator
 
